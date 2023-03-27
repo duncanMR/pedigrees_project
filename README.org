@@ -1,0 +1,5 @@
+#+TITLE: Pedigrees project
+
+The goal of this project is to validate tree sequences inferred from the 100 000
+Genomes Project data using [[https://github.com/tskit-dev/tsinfer][tsinfer]]. The hope is that we can identify a pedigree directly from
+WGS samples without needing to view pedigree data.
